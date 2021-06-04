@@ -1,4 +1,4 @@
-# ETL-ProjectGroupA
+# ETL Project
 
 ### Team Members  
 Hema Vyas, Matthew Canady, Lindsay Reynolds
