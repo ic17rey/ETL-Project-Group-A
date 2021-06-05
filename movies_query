@@ -1,0 +1,18 @@
+Select *
+From movies
+Limit 20
+
+Create view movies_list as Select distinct
+imdb_title_id, title, year, language, country
+From movies
+select *
+from movies_list;
+
+Select * From ratings
+Limit 20;
+
+Create view ratings_list as Select distinct
+imdb_title_id, total_votes, weighted_average_vote, mean_vote
+From ratings
+select *
+from ratings_list;
