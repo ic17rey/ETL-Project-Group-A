@@ -1,3 +1,6 @@
+# Added file for storing username and password for pgAdmin 4
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
