@@ -25,7 +25,7 @@ Structure of ratings table (text unless otherwise identified)
 * weighted_average_vote (FLOAT)
 * mean_vote (FLOAT)
 
-Note: IMDb_title_id is going to be the primary key
+Note: IMDb_title_id will be the primary key if tables are joined
 
 ### Requirements
 * Remove null values and remove duplicated rows
